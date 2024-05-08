@@ -362,7 +362,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes illustrator {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 65%;  }
 }
 @-moz-keyframes wordpress {
   0%   { width: 0px;  }
@@ -370,15 +370,15 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 65%;  }
 }
 @-moz-keyframes html5 {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 70%;  }
 }
 @-moz-keyframes jquery {
   0%   { width: 0px;  }
-  100% { width: 45%;  }
+  100% { width: 85%;  }
 }
 
 @-webkit-keyframes photoshop {
@@ -387,7 +387,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes illustrator {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 65%;  }
 }
 @-webkit-keyframes wordpress {
   0%   { width: 0px;  }
@@ -395,15 +395,15 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 65%;  }
 }
 @-webkit-keyframes html5 {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 70%;  }
 }
 @-webkit-keyframes jquery {
   0%   { width: 0px;  }
-  100% { width: 45%;  }
+  100% { width: 85%;  }
 }
 
 /* ------------------------------------------------------------------ */
